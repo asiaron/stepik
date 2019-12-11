@@ -1,0 +1,12 @@
+[
+  "test_3_4.py::Test_pages::test_is_correct[https://stepik.org/lesson/236895/step/1]",
+  "test_3_4.py::Test_pages::test_is_correct[https://stepik.org/lesson/236896/step/1]",
+  "test_3_4.py::Test_pages::test_is_correct[https://stepik.org/lesson/236897/step/1]",
+  "test_3_4.py::Test_pages::test_is_correct[https://stepik.org/lesson/236898/step/1]",
+  "test_3_4.py::Test_pages::test_is_correct[https://stepik.org/lesson/236899/step/1]",
+  "test_3_4.py::Test_pages::test_is_correct[https://stepik.org/lesson/236903/step/1]",
+  "test_3_4.py::Test_pages::test_is_correct[https://stepik.org/lesson/236904/step/1]",
+  "test_3_4.py::Test_pages::test_is_correct[https://stepik.org/lesson/236905/step/1]",
+  "test_3_4.py::test_find_button_add_to_basket",
+  "test_items.py::test_button_add_to_basket_exist_on_page"
+]
